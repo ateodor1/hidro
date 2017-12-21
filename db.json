@@ -1,17 +1,12 @@
 {
-  "eventos":
-  [
-{
-"name": "Eventos",
-"slug": "eventos",
-"description": "Eventos da comunidade Xamarin no Brasil",
-"id": "480d4e42-1192-11e7-93ae-92361f002671"
-},
-{
-"name": "Xamarin Android",
-"slug": "xamarin-android",
-"description": "Aqui você vai encontrar ajuda relacionada a Xamarin.Android,",
-"id": "380d52a2-1192-11e7-93ae-92361f002671"
-}
-]
+  "condominios": [
+    {
+      "id": "1",
+      "nome": "Condo 1"
+    },
+    {
+      "id": "2",
+      "nome": "Condo 2"
+    }
+  ]
 }
