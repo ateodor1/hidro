@@ -1,11 +1,11 @@
 {
   "condominios": [
     {
-      "Id": 1,
+      "Id": "1",
       "Nome": "Condo 1"
     },
     {
-      "Id": 2,
+      "Id": "2",
       "Nome": "Condo 2"
     }
   ]
