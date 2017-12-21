@@ -1,4 +1,4 @@
-eventos:[
+{eventos:[
 {
 name: "Eventos",
 slug: "eventos",
@@ -24,3 +24,4 @@ description: "Aqui você vai encontrar ajuda relacionada a Xamarin.Forms",
 id: "180d52a2-1192-11e7-93ae-92361f002671"
 }
 ]
+}
