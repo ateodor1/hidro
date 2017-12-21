@@ -1,12 +1,12 @@
 {
   "condominios": [
     {
-      "Id": "1",
-      "Nome": "Condo 1"
+      "id": "1",
+      "nome": "Condo 1"
     },
     {
-      "Id": "2",
-      "Nome": "Condo 2"
+      "id": "2",
+      "nome": "Condo 2"
     }
   ]
 }
