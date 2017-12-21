@@ -1,5 +1,5 @@
 {
-  condominios: [
+  "condominios": [
     {
       id: "1",
       nome: "Condo 1"
